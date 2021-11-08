@@ -1,0 +1,52 @@
+2021-11-05 21:22:40,336 : INFO : utilities.logger : Listing dog food categories
+2021-11-05 21:22:45,615 : INFO : utilities.logger : Searching for pagination item
+2021-11-05 21:22:45,641 : INFO : utilities.logger : Extracting all product's url from page 1
+2021-11-05 21:22:45,652 : INFO : utilities.logger : Extracting all product's url from page 2
+2021-11-05 21:22:48,710 : INFO : utilities.logger : Extracting all product's url from page 3
+2021-11-05 21:22:51,977 : INFO : utilities.logger : Extracting all product's url from page 4
+2021-11-05 21:22:54,810 : INFO : utilities.logger : Extracting all product's url from page 5
+2021-11-05 21:22:57,886 : INFO : utilities.logger : Extracting all product's url from page 6
+2021-11-05 21:23:00,664 : INFO : utilities.logger : Extracting all product's url from page 7
+2021-11-05 21:23:04,368 : INFO : utilities.logger : Extracting all product's url from page 8
+2021-11-05 21:23:08,139 : INFO : utilities.logger : Extracting all product's url from page 9
+2021-11-05 21:23:11,483 : INFO : utilities.logger : Extracting all product's url from page 10
+2021-11-05 21:23:14,364 : INFO : utilities.logger : Extracting all product's url from page 11
+2021-11-05 21:23:17,491 : INFO : utilities.logger : Extracting all product's url from page 12
+2021-11-05 21:23:20,191 : INFO : utilities.logger : Extracting all product's url from page 13
+2021-11-05 21:23:23,235 : INFO : utilities.logger : Extracting all product's url from page 14
+2021-11-05 21:23:26,955 : INFO : utilities.logger : Extracting all product's url from page 15
+2021-11-05 21:23:30,564 : INFO : utilities.logger : Extracting all product's url from page 16
+2021-11-05 21:23:34,194 : INFO : utilities.logger : Extracting all product's url from page 17
+2021-11-05 21:23:36,614 : INFO : utilities.logger : Extracting all product's url from page 18
+2021-11-05 21:23:39,981 : INFO : utilities.logger : Extracting all product's url from page 19
+2021-11-05 21:23:42,817 : INFO : utilities.logger : Extracting all product's url from page 20
+2021-11-05 21:23:46,165 : INFO : utilities.logger : Extracting all product's url from page 21
+2021-11-05 21:23:49,091 : INFO : utilities.logger : Extracting all product's url from page 22
+2021-11-05 21:23:53,250 : INFO : utilities.logger : Extracting all product's url from page 23
+2021-11-05 21:23:56,724 : INFO : utilities.logger : Extracting all product's url from page 24
+2021-11-05 21:23:59,375 : INFO : utilities.logger : Extracting all product's url from page 25
+2021-11-05 21:24:03,492 : INFO : utilities.logger : Extracting all product's url from page 26
+2021-11-05 21:24:07,541 : INFO : utilities.logger : Extracting all product's url from page 27
+2021-11-05 21:24:10,386 : INFO : utilities.logger : Extracting all product's url from page 28
+2021-11-05 21:24:14,041 : INFO : utilities.logger : Extracting all product's url from page 29
+2021-11-05 21:24:17,111 : INFO : utilities.logger : Extracting all product's url from page 30
+2021-11-05 21:24:19,628 : INFO : utilities.logger : Extracting all product's url from page 31
+2021-11-05 21:24:22,541 : INFO : utilities.logger : Extracting all product's url from page 32
+2021-11-05 21:24:25,769 : INFO : utilities.logger : Extracting all product's url from page 33
+2021-11-05 21:24:28,835 : INFO : utilities.logger : Extracting all product's url from page 34
+2021-11-05 21:24:33,315 : INFO : utilities.logger : Extracting all product's url from page 35
+2021-11-05 21:24:37,725 : INFO : utilities.logger : Extracting all product's url from page 36
+2021-11-05 21:24:40,237 : INFO : utilities.logger : Extracting all product's url from page 37
+2021-11-05 21:24:43,163 : INFO : utilities.logger : Extracting all product's url from page 38
+2021-11-05 21:24:45,643 : INFO : utilities.logger : Extracting all product's url from page 39
+2021-11-05 21:24:48,601 : INFO : utilities.logger : Extracting all product's url from page 40
+2021-11-05 21:24:52,020 : INFO : utilities.logger : Extracting all product's url from page 41
+2021-11-05 21:24:58,653 : INFO : utilities.logger : Searching for pagination item
+2021-11-05 21:25:00,412 : INFO : utilities.logger : getting product name
+2021-11-05 21:25:00,414 : INFO : utilities.logger : Getting manufacturer's name
+2021-11-05 21:25:00,416 : INFO : utilities.logger : getting product description paragraph
+2021-11-05 21:25:00,418 : INFO : utilities.logger : getting Ingredients details
+2021-11-05 21:25:00,420 : INFO : utilities.logger : getting list of items in Key Benefits
+2021-11-05 21:25:00,420 : INFO : utilities.logger : getting all high res product images
+2021-11-05 21:25:00,422 : INFO : utilities.logger : getting the price of a product for the default packaging size
+2021-11-05 21:25:00,423 : INFO : utilities.logger : Adding all values to the main_dict
