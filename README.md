@@ -50,8 +50,9 @@ I extracted all attributes from the page and attached them to a csv file in a ba
 I could not extract "Categories" as there is no such section on the product page. It belongs to just one category.
 I also could not extract the price for all package sizes as the packages are generated through javascript running on
 the browser after and beautifulsoup could not locate the package size elements. 
-I even used HTML-requests package, but got an error that I had no access. 
-Something in my headers is probably missing or the page has not provided access to that section.  
+I even used HTML-requests package to render the HTML body, but got an error that I had no access. 
+Something in my headers is probably missing or the page has not provided access to that section. 
+There was no robots.txt file to check scraper access either. Could use some guidance here.
 
 ___ 
 
