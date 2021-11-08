@@ -46,8 +46,8 @@ category, all we need to do is change these variables.
 but decided against it and kept it 
 
 4. This was fun, I extracted all attributes from the page and attached them to a csv file in a basic format for demonstration purposes. 
-> - However, I could not extract "Categories" as there is no such section on the product page. It belongs to just one category.
-> - I also could not extract the price for all package sizes as the packages are generated through javascript running on
+>> - However, I could not extract "Categories" as there is no such section on the product page. It belongs to just one category.
+>> - I also could not extract the price for all package sizes as the packages are generated through javascript running on
 the browser after and beautifulsoup could not locate the package size elements. 
 I even used HTML-requests package to render the HTML body, but got an error that I had no access. 
 Something in my headers is probably missing or the page has not provided access to that section. 
