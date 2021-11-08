@@ -5,7 +5,7 @@ This document covers Get Started instructions, assessment questions, timeline an
 ---
 ## Getting started:
 
-1. Git pull or Git clone repository to your local machine
+1. Git clone repository to your local machine
 2. Run `pip install -r requirements.txt` to install dependencies
 3. Run main.py
 
