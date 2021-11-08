@@ -57,10 +57,10 @@ ___
 
 ### Timeline:
 
-Overall, the project took me about 8 hours in total to complete as I was a beginner to using beautifulsoup.
+Overall, the project took me about 10 hours in total to complete as I was a complete beginner to using beautifulsoup.
 
 - 30 minutes to read and understand requirements, set up the project files and structure
-- 60 minutes of watching beautiful soup tutorials on youtube and freecodecamp
+- 180 minutes of reading documentation, watching beautiful soup tutorials on youtube and udemy
 - 30 minutes to figure out what is headers, why is it needed and why my headers were incorrect initially
 - 120 minutes to code all the core files
 - 120 minutes to test different scenarios and debug code
